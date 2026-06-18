@@ -1,0 +1,37 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Configuración de usuario
+*.user
+*.suo
+*.cache
+*.log
+
+# Archivos de publicación
+*.publish.xml
+*.pubxml
+*.pubxml.user
+
+# Configuración de IDE
+.vs/
+*.dbmdl
+*.jfm
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Archivos de dependencias
+packages/
+*.nupkg
+*.snupkg
+
+# Configuración de entorno
+.env
+appsettings.Development.json
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini
